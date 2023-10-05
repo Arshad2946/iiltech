@@ -1,0 +1,109 @@
+.divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:100%  
+}
+.para1{
+    font-family:naurito;
+    color:#fff;
+    text-align:center;
+    padding-top:10px;
+}
+@media (max-width:650px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:100%;
+    scroll-behavior: smooth; 
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+@media (max-width:450px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:100%;
+    scroll-behavior: smooth; 
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+@media (max-width:375px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:375px;
+    scroll-behavior: smooth; 
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+@media (max-width:390px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:100%;
+    scroll-behavior: smooth; 
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+@media (max-width:400px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.5px;
+    margin-right:0.5px;
+    height:50px;
+    width:100%;
+    scroll-behavior: smooth; 
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+@media (max-width:414px) {
+    .divf{
+    background-color:#961e24;
+    margin-left:0.1px;
+    margin-right:0.1px;
+    height:35px;
+    width:414px;
+    }
+    .para1{
+        font-family:naurito;
+        color:#fff;
+        text-align:center;
+        padding-top:10px;
+    }
+}
+
